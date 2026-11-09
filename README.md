@@ -1,1 +1,0 @@
-# AI-Powered-Code-Quality-Bug-Detection-Platform
